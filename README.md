@@ -1,6 +1,5 @@
 # Worm
 Proof of concept worm that spreads using a dictionary attack on a the PC's in a network
-Daniel Berumen: dcberumen@csu.fullerton.edu
 
 CPSC 452 Assignment 1
 
